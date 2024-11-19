@@ -72,6 +72,7 @@
         android:layout_height="61dp"
         android:backgroundTint="#C78539"
         android:fontFamily="cursive"
+        android:onClick="secondPage"
         android:text="Tak!"
         android:textColor="#FFFFFF"
         android:textSize="25sp"
